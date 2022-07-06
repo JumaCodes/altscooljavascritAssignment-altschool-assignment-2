@@ -37,7 +37,7 @@ function countEvenNumbers(arrayOfNumbers) {
 });
   return even;
 }
-assignment.countEvenNumbers = countEvenNumbers;
+// assignment.countEvenNumbers = countEvenNumbers;
 
 /**
  * Challenge - 3
@@ -60,7 +60,7 @@ function celsiusToFahrenheit(celsius) {
   }
       return fahrenheit +'\xB0F';
 }
-// assignment.celsiusToFahrenheit = celsiusToFahrenheit;
+assignment.celsiusToFahrenheit = celsiusToFahrenheit;
 
 
 // ========================
